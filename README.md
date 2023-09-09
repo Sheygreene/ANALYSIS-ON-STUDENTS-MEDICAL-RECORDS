@@ -33,3 +33,9 @@ The second activity of this task was to create a pivot table showing the average
 The third activity on this task was to insert a new Pivot table, then drag the 'student ID' to the 'value' section and the 'blood type' to the 'row' section, resulting in a pivot table showing the summation of students. I changed the 'sum' to 'count,' which produced the total number of students and their various blood types. The fourth activity on this task was to insert a new Pivot table, then drag the 'student ID' to the 'value' section and the 'smoking' to the 'row' section, which produced a pivot table showing the summation of students. I changed the 'sum' to 'count', which produced the total number of students smoking and those who do not smoke. To determine the total number of diabetic students, I inserted a new Pivot table. The pivot table fields box popped up containing all the headers on my table, then I dragged the 'Diabetes' to the 'row' section and the 'Student ID' to the 'value' section This produced a pivot table showing the summation of students; I changed the 'sum' to 'count', hence this produced the total number of diabetic students and non-diabetic students. I also took the grand total out of this area.
 
 
+# DATA VISUALIZATION USING PIVOT CHARTS
+
+Data visualization of pivot tables necessitates a complete presentation of the derived dataset in chart format to provide a better view and understanding of the work that was done. This was shown on each of the pivot tables that were created.
+![DATA RE!ÓPORT](https://github.com/Sheygreene/ANALYSIS-ON-STUDENTS-MEDICAL-RECORDS/blob/main/DATA%20REPORTING%20FILE.png)
+
+
