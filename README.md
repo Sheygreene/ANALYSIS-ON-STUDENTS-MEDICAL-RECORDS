@@ -17,8 +17,8 @@ A dataset of students' medical records was used to generate pivot tables from th
 
 # DATA CLEANING
 The raw dataset contained 13 columns of information, which included the Student ID, their age, and some health metrics. The rows contained 200,000 pieces of information corresponding to the respective columns as well as some blank spaces.
-![RAW DATASET](https://github.com/Sheygreene/ANALYSIS-OF-MEDICAL-STUDENTS-HEALTH-RECORDS/blob/main/RAW%20DATA%20SET.png)
+![RAW DATASET](https://github.com/Sheygreene/ANALYSIS-ON-STUDENTS-MEDICAL-RECORDS/blob/main/RAW%20DATA%20SET.png)
 
 The dataset was cleaned by filling up the blank spaces with the average values of each column. For the columns that contained gender, blood group, smoking, and diabetes, they were calculated by using COUNTIF to find out the highest occurring value, which was used to fill up the blank spaces in these columns. After that, I transformed the full data set into a table by highlighting the entire data set, pressing Control T, and adjusting the header to fit into the column accordingly.
-![CLEANED DATA](https://github.com/Sheygreene/ANALYSIS-OF-MEDICAL-STUDENTS-HEALTH-RECORDS/blob/main/CLEANED%20DATA.png)
-![TABLE WITH THE DATA FOR THE BLANK SPACES](https://github.com/Sheygreene/ANALYSIS-OF-MEDICAL-STUDENTS-HEALTH-RECORDS/blob/54693cf6a4847ffbab465413375235a507e4b171/TABLE%20WITH%20BLANK%20SPACES%20INFORMATION.png)
+![CLEANED DATA](https://github.com/Sheygreene/ANALYSIS-ON-STUDENTS-MEDICAL-RECORDS/blob/main/CLEANED%20DATA.png)
+![TABLE WITH THE DATA FOR THE BLANK SPACES](https://github.com/Sheygreene/ANALYSIS-ON-STUDENTS-MEDICAL-RECORDS/blob/main/TABLE%20WITH%20THE%20DATA%20FOR%20BLANK%20SPACES.png)
