@@ -38,4 +38,8 @@ The third activity on this task was to insert a new Pivot table, then drag the '
 Data visualization of pivot tables necessitates a complete presentation of the derived dataset in chart format to provide a better view and understanding of the work that was done. This was shown on each of the pivot tables that were created.
 ![DATA RE!ÓPORT](https://github.com/Sheygreene/ANALYSIS-ON-STUDENTS-MEDICAL-RECORDS/blob/main/DATA%20REPORTING%20FILE.png)
 
+I picked 'pivot chart' on the 'insert tab' after clicking on a cell in the Pivot table. This presented the 'all chart' box, where I selected the 'column chart' and then moved the chart to a new worksheet. I removed the field buttons and chart text and replaced them with a text box that described the chart as the 'Average Student Health Metrics.'The legend button was retained because the column bars were too many to distinguish each piece of medical data. This was repeated for Pivot Tables 2, 3, 4, and 5. Doughnut and pie charts were utilized for pivot tables 4 and 5 because the points evaluated were few in comparison to pivot tables 1, 2, and 3. For pivot table 3, a bar chart was utilized. I designed the bars using orange from the darkest to the lightest accent after making the five pivot charts and determining the highest to lowest values.
+The data graphics of the pivot tables are seen in the screenshot above.
 
+# CONCLUSION
+This work widened my use of pivot tables and their functions for visualizing data on an Excel spreadsheet.
