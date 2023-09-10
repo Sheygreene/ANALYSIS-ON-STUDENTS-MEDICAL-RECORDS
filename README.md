@@ -42,4 +42,4 @@ I picked 'pivot chart' on the 'insert tab' after clicking on a cell in the Pivot
 The data graphics of the pivot tables are seen in the screenshot above.
 
 # CONCLUSION
-This work widened my use of pivot tables and their functions for visualizing data on an Excel spreadsheet.
+This task broadened my use of pivot tables and their functions for visualizing data on an Excel spreadsheet.
